@@ -1,0 +1,9 @@
+     ----------------------------------------------------------------------------------------------------------
+     In this game you have to rewrite the words given by the program as quickly and without errors as possible.
+		  	    If you enter at least one letter incorrectly, you lose points.
+				  Just write word and press "Enter" write next...
+				 
+				      		GOOD LUCK
+
+
+			  Author: Nazarii Shchehliuk, Informatyka 1, UniOpole 2021
